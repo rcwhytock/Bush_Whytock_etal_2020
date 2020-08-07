@@ -12,7 +12,6 @@ fruitPhenology # Analysis of tree reproduction and fruit availability
   |-R # R scripts
   
 bodyCondition # Analysis of trends in forest elephant body condition over time
-  |-data # Data in .csv format
   |-figures # Figures output from the R scripts
   |-R # R scripts
   
