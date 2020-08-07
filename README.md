@@ -1,7 +1,7 @@
 ## Long-term collapse in fruit availability threatens Central African forest megafauna #### 
 
 
-This repository contains all of the data and code used in [citation TBC].
+This repository contains all of the code used in [citation TBC].
 
 ### The directory structure is:
 
