@@ -1,4 +1,4 @@
-## Analysis for Bush and Whytock et al. #### 
+## Long-term collapse in fruit availability threatens Central African forest megafauna #### 
 
 
 This repository contains all of the data and code used in [citation TBC].
