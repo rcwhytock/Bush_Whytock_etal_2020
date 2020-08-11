@@ -1,0 +1,160 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# User-specific files
+.Ruserdata
+
+# Example code in package build process
+*-Ex.R
+
+# Output files from R CMD build
+/*.tar.gz
+
+# Output files from R CMD check
+/*.Rcheck/
+
+# RStudio files
+.Rproj.user/
+
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+
+# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
+.httr-oauth
+
+# knitr and R markdown default cache directories
+*_cache/
+/cache/
+
+# Temporary files created by R markdown
+*.utf8.md
+*.knit.md
+
+# Private version of body condition data with scorer names and file paths
+bodyCondition_Dec2019.csv
+
+# Key to scorer names
+scorerNames.csv
+
+fruitPhenology/.DS_Store
+
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# User-specific files
+.Ruserdata
+
+# Example code in package build process
+*-Ex.R
+
+# Output files from R CMD build
+/*.tar.gz
+
+# Output files from R CMD check
+/*.Rcheck/
+
+# RStudio files
+.Rproj.user/
+
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+
+# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
+.httr-oauth
+
+# knitr and R markdown default cache directories
+*_cache/
+/cache/
+
+# Temporary files created by R markdown
+*.utf8.md
+*.knit.md
+
+# Private version of body condition data with scorer names and file paths
+bodyCondition_Dec2019.csv
+
+# Key to scorer names
+scorerNames.csv
+
+# Windows thumbnails
+Thumbs.db
+
+# DS_store files from mac
+.DS_Store
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+ 
+# OS generated files #
+######################
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+*.DS_Store
+ 
+# Xcode
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+ 
+ 
+# IDE
+*.idea
+*.iml
+ 
+# Generated files
+/web-app/WEB-INF
+build/
+*.[oa]
+*.pyc
+ 
+# Other source repository archive directories (protects when importing)
+.hg
+.svn
+CVS
+ 
+# automatic backup files
+*~.nib
+*.swp
+*~
+*(Autosaved).rtfd/
+Backup[ ]of[ ]*.pages/
+Backup[ ]of[ ]*.key/
+Backup[ ]of[ ]*.numbers/
+
+# DS_store files from mac
+.DS_Store
+
+#Sensitive files to ignore
+fruitPhenology/data/emma-test-ignore.csv
+fruitPhenology/data/Phenology data long-term record_v.2019.09_v2.csv
+fruitPhenology/data/Species lookup_v.2018.10.01_EB.csv
+fruitPhenology/data/Tree lookup_v.2018.09_EB.csv
+fruitPhenology/data/Elephant food_White 1994.csv
+fruitPhenology/data/elephantFruitPhenology v.2019.09.09_1986.10.01.csv
+anaDataClean.rds
+historicDatClean.rds
+
+# Map shapefiles
+ECOFAC6_cameraGrid_v1/
+Vegetation types_LW/
+*.rda
+*~.rda
