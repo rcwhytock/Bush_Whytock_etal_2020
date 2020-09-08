@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/285789471.svg)](https://zenodo.org/badge/latestdoi/285789471)
 
-This repository contains all of the code used in Bush and Whytock et al. 2020 [citation TBC].
+This repository contains all of the code used in Bush and Whytock et al. 2020.
 Data used in the analyses are available in .csv format from the University of Stirling's data repository (DataSTORRE: Stirling Online Repository for Research Data) at this link http://hdl.handle.net/11667/159
 
 ### The directory structure is:
