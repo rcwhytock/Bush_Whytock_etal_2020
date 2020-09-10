@@ -1,5 +1,7 @@
 ## Long-term collapse in fruit availability threatens Central African forest megafauna #### 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4022665.svg)](https://doi.org/10.5281/zenodo.4022665)
+
 This repository contains all of the code used in Bush and Whytock et al. 2020.
 Data used in the analyses are available in .csv format from the University of Stirling's data repository (DataSTORRE: Stirling Online Repository for Research Data) at this link http://hdl.handle.net/11667/159
 
